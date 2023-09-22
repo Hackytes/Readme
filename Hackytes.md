@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackytes&label=Profile%20views&color=0e75b6&style=flat" alt="hackytes" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Mobile App development**
 
